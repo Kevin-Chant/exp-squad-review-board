@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# experiment-squad PR review board
 
-## Getting Started
+Daily triage board for GrowthBook `experiment-squad` pull requests.
 
-First, run the development server:
+## What it shows
+
+- PR title (links to GitHub)
+- Date opened
+- Status: draft, ready to review, in review, merged
+- Assignees
+- Reviewers (requested + anyone who commented or submitted a review)
+- Review-load summary across people involved on ready / in-review PRs
+
+This first version is **read-only**. Update assignees and reviewers on GitHub via the PR link.
+
+## Live sync
+
+Set a `GITHUB_TOKEN` secret with:
+
+- `repo` (or public_repo) for pull request reads
+- `read:org` for `experiment-squad` membership
+
+Without the token, the app serves bundled sample data and labels it clearly.
+
+## Local development
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Optional live local sync:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```bash
+export GITHUB_TOKEN="$(gh auth token)"
+npm run dev
+```

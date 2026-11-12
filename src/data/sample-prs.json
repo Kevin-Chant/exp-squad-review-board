@@ -1,0 +1,2137 @@
+{
+  "fetchedAt": "2026-11-12T18:44:25.146Z",
+  "team": "experiment-squad",
+  "members": [
+    "ahdriel",
+    "lukesonnet",
+    "teresayung",
+    "msamper",
+    "lukebrawleysmith"
+  ],
+  "prs": [
+    {
+      "number": 7697,
+      "title": "fix(ui): keep wide content inside Callout",
+      "url": "https://github.com/growthbook/growthbook/pull/7697",
+      "createdAt": "2026-11-12T16:04:51Z",
+      "updatedAt": "2026-11-12T16:30:00Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "lillialjackson"
+      ]
+    },
+    {
+      "number": 7690,
+      "title": "minimum variance floor for contextual bandit arms",
+      "url": "https://github.com/growthbook/growthbook/pull/7690",
+      "createdAt": "2026-11-11T19:35:13Z",
+      "updatedAt": "2026-11-11T20:56:19Z",
+      "author": "lukebrawleysmith",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [
+        "lukesonnet"
+      ],
+      "reviewers": [
+        "lukesonnet"
+      ]
+    },
+    {
+      "number": 7689,
+      "title": "fix(experiments): stamp analysis summaries with phase and ignore stale summaries",
+      "url": "https://github.com/growthbook/growthbook/pull/7689",
+      "createdAt": "2026-11-11T17:58:15Z",
+      "updatedAt": "2026-11-12T17:04:02Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [
+        "ahdriel",
+        "lillialjackson"
+      ],
+      "reviewers": [
+        "ahdriel",
+        "lillialjackson",
+        "jdorn"
+      ]
+    },
+    {
+      "number": 7688,
+      "title": "feat(experiments): add health and exp decision data to results endpoint",
+      "url": "https://github.com/growthbook/growthbook/pull/7688",
+      "createdAt": "2026-11-11T17:07:42Z",
+      "updatedAt": "2026-11-12T17:29:46Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "jdorn"
+      ]
+    },
+    {
+      "number": 7677,
+      "title": "fix(experiments): allow more metadata changes on unlinked experiments",
+      "url": "https://github.com/growthbook/growthbook/pull/7677",
+      "createdAt": "2026-11-10T18:15:59Z",
+      "updatedAt": "2026-11-10T18:31:35Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "bryce-fitzsimons"
+      ]
+    },
+    {
+      "number": 7676,
+      "title": "fix(experiments): Default managed warehouse identifier from the assignment attribute",
+      "url": "https://github.com/growthbook/growthbook/pull/7676",
+      "createdAt": "2026-11-10T17:53:37Z",
+      "updatedAt": "2026-11-10T21:30:02Z",
+      "author": "msamper",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "lukesonnet"
+      ]
+    },
+    {
+      "number": 7674,
+      "title": "Backport 5.2.1 release",
+      "url": "https://github.com/growthbook/growthbook/pull/7674",
+      "createdAt": "2026-11-10T16:37:57Z",
+      "updatedAt": "2026-11-12T17:13:27Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7670,
+      "title": "fix(experiments): consider funnels w/o conversion window as in-progress if every step has a window",
+      "url": "https://github.com/growthbook/growthbook/pull/7670",
+      "createdAt": "2026-11-10T02:20:49Z",
+      "updatedAt": "2026-11-10T15:15:25Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [
+        "lillialjackson"
+      ],
+      "reviewers": [
+        "lillialjackson",
+        "ahdriel"
+      ]
+    },
+    {
+      "number": 7666,
+      "title": "fix(contextual-bandits): back off scheduled updates for unlicensed orgs",
+      "url": "https://github.com/growthbook/growthbook/pull/7666",
+      "createdAt": "2026-11-09T20:24:00Z",
+      "updatedAt": "2026-11-09T20:24:00Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7665,
+      "title": "Fix phone layout overflow on feature and experiment pages",
+      "url": "https://github.com/growthbook/growthbook/pull/7665",
+      "createdAt": "2026-11-09T20:17:14Z",
+      "updatedAt": "2026-11-09T20:41:34Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7660,
+      "title": "chore: ignore M_ID errors from a Chrome extension",
+      "url": "https://github.com/growthbook/growthbook/pull/7660",
+      "createdAt": "2026-11-09T17:14:03Z",
+      "updatedAt": "2026-11-09T17:20:17Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7659,
+      "title": "implementing scaled impact for cluster designed experiments",
+      "url": "https://github.com/growthbook/growthbook/pull/7659",
+      "createdAt": "2026-11-09T17:05:21Z",
+      "updatedAt": "2026-11-11T00:16:37Z",
+      "author": "lukebrawleysmith",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "lukesonnet"
+      ]
+    },
+    {
+      "number": 7641,
+      "title": "feat(dimensions): support time-varying dimensions",
+      "url": "https://github.com/growthbook/growthbook/pull/7641",
+      "createdAt": "2026-11-07T02:39:07Z",
+      "updatedAt": "2026-11-12T17:29:38Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "jdorn"
+      ]
+    },
+    {
+      "number": 7640,
+      "title": "fix(interleaving): move tracking key edit to analysis modal",
+      "url": "https://github.com/growthbook/growthbook/pull/7640",
+      "createdAt": "2026-11-07T00:41:49Z",
+      "updatedAt": "2026-11-09T21:49:01Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [
+        "lillialjackson"
+      ],
+      "reviewers": [
+        "lillialjackson",
+        "ahdriel"
+      ]
+    },
+    {
+      "number": 7639,
+      "title": "use unadjusted means instead of CUPED when pre-exposure variance is small",
+      "url": "https://github.com/growthbook/growthbook/pull/7639",
+      "createdAt": "2026-11-07T00:15:54Z",
+      "updatedAt": "2026-11-07T03:42:25Z",
+      "author": "lukebrawleysmith",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "lukesonnet"
+      ]
+    },
+    {
+      "number": 7638,
+      "title": "Ty/qa overrides prototype",
+      "url": "https://github.com/growthbook/growthbook/pull/7638",
+      "createdAt": "2026-11-06T23:51:38Z",
+      "updatedAt": "2026-11-10T23:15:59Z",
+      "author": "teresayung",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7633,
+      "title": "fix(docs): clear console errors on docs.growthbook.io",
+      "url": "https://github.com/growthbook/growthbook/pull/7633",
+      "createdAt": "2026-11-06T20:47:57Z",
+      "updatedAt": "2026-11-06T20:49:41Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7632,
+      "title": "Contextual Bandit for Managed Warehouse",
+      "url": "https://github.com/growthbook/growthbook/pull/7632",
+      "createdAt": "2026-11-06T20:46:08Z",
+      "updatedAt": "2026-11-10T00:27:11Z",
+      "author": "teresayung",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7630,
+      "title": "docs: update files to use 'Review & Publish'",
+      "url": "https://github.com/growthbook/growthbook/pull/7630",
+      "createdAt": "2026-11-06T20:14:14Z",
+      "updatedAt": "2026-11-06T20:21:35Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7614,
+      "title": "Environment - isProduction Value",
+      "url": "https://github.com/growthbook/growthbook/pull/7614",
+      "createdAt": "2026-11-05T23:54:53Z",
+      "updatedAt": "2026-11-06T22:51:43Z",
+      "author": "teresayung",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "msamper"
+      ]
+    },
+    {
+      "number": 7612,
+      "title": "Fix Show less toggle to use upward arrow when expanded",
+      "url": "https://github.com/growthbook/growthbook/pull/7612",
+      "createdAt": "2026-11-05T21:34:19Z",
+      "updatedAt": "2026-11-05T22:04:24Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "ahdriel"
+      ]
+    },
+    {
+      "number": 7610,
+      "title": "Fix shading for Bandit Breakdown table",
+      "url": "https://github.com/growthbook/growthbook/pull/7610",
+      "createdAt": "2026-11-05T20:48:40Z",
+      "updatedAt": "2026-11-06T00:05:46Z",
+      "author": "lukebrawleysmith",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "teresayung"
+      ]
+    },
+    {
+      "number": 7609,
+      "title": "fix(ui): give Radix tooltip triggers a ref-able element",
+      "url": "https://github.com/growthbook/growthbook/pull/7609",
+      "createdAt": "2026-11-05T20:29:02Z",
+      "updatedAt": "2026-11-05T20:32:59Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7597,
+      "title": "feat(experiments): Show cluster and sub-unit IDs in exposure logs",
+      "url": "https://github.com/growthbook/growthbook/pull/7597",
+      "createdAt": "2026-11-05T00:39:47Z",
+      "updatedAt": "2026-11-05T15:02:56Z",
+      "author": "msamper",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [
+        "lillialjackson"
+      ],
+      "reviewers": [
+        "lillialjackson",
+        "lukesonnet"
+      ]
+    },
+    {
+      "number": 7591,
+      "title": "refactor(snapshots): safe rollouts and aggregated-FT runs in line with new stalled query/snapshot reacher",
+      "url": "https://github.com/growthbook/growthbook/pull/7591",
+      "createdAt": "2026-11-04T19:19:21Z",
+      "updatedAt": "2026-11-05T20:11:43Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "ahdriel"
+      ]
+    },
+    {
+      "number": 7589,
+      "title": "fix(ramps): Stop schedule starts writing null coverage on force rules",
+      "url": "https://github.com/growthbook/growthbook/pull/7589",
+      "createdAt": "2026-11-04T18:37:58Z",
+      "updatedAt": "2026-11-04T22:21:05Z",
+      "author": "msamper",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "andywhite37"
+      ]
+    },
+    {
+      "number": 7586,
+      "title": "chore: use `import type` for type-only imports",
+      "url": "https://github.com/growthbook/growthbook/pull/7586",
+      "createdAt": "2026-11-04T17:37:13Z",
+      "updatedAt": "2026-11-04T21:14:04Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7585,
+      "title": "fix(ui): move help launcher above bottom save bars",
+      "url": "https://github.com/growthbook/growthbook/pull/7585",
+      "createdAt": "2026-11-04T17:24:28Z",
+      "updatedAt": "2026-11-04T18:22:11Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "bryce-fitzsimons"
+      ]
+    },
+    {
+      "number": 7583,
+      "title": "refactor(snapshots): harmonize snapshot reaping jobs",
+      "url": "https://github.com/growthbook/growthbook/pull/7583",
+      "createdAt": "2026-11-04T15:56:03Z",
+      "updatedAt": "2026-11-04T22:28:34Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "lillialjackson",
+        "ahdriel"
+      ]
+    },
+    {
+      "number": 7581,
+      "title": "Add [beta] tag to Interleaving sidebar item",
+      "url": "https://github.com/growthbook/growthbook/pull/7581",
+      "createdAt": "2026-11-04T15:34:43Z",
+      "updatedAt": "2026-11-04T18:36:33Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "lillialjackson"
+      ]
+    },
+    {
+      "number": 7574,
+      "title": "fix(results): public results/report/presentations need more context to fix health statuses",
+      "url": "https://github.com/growthbook/growthbook/pull/7574",
+      "createdAt": "2026-11-04T00:44:49Z",
+      "updatedAt": "2026-11-04T00:53:45Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "msamper"
+      ]
+    },
+    {
+      "number": 7569,
+      "title": "fix(dashboards): refresh dimension blocks after the Overall update",
+      "url": "https://github.com/growthbook/growthbook/pull/7569",
+      "createdAt": "2026-11-03T22:05:39Z",
+      "updatedAt": "2026-11-03T22:18:23Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7568,
+      "title": "fix(experiments): allow metric overrides with incremental refresh",
+      "url": "https://github.com/growthbook/growthbook/pull/7568",
+      "createdAt": "2026-11-03T21:04:09Z",
+      "updatedAt": "2026-11-03T22:18:58Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7565,
+      "title": "design-system: update page with more metadata",
+      "url": "https://github.com/growthbook/growthbook/pull/7565",
+      "createdAt": "2026-11-03T19:18:19Z",
+      "updatedAt": "2026-11-03T21:38:47Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [
+        "gabebook340"
+      ],
+      "reviewers": [
+        "gabebook340"
+      ]
+    },
+    {
+      "number": 7552,
+      "title": "interleaving: add env var back door",
+      "url": "https://github.com/growthbook/growthbook/pull/7552",
+      "createdAt": "2026-11-02T23:54:45Z",
+      "updatedAt": "2026-11-03T02:10:59Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "lillialjackson"
+      ]
+    },
+    {
+      "number": 7547,
+      "title": "chore(lint): flag runtime imports of devDependencies",
+      "url": "https://github.com/growthbook/growthbook/pull/7547",
+      "createdAt": "2026-11-02T20:29:24Z",
+      "updatedAt": "2026-11-04T14:52:34Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "Kevin-Chant"
+      ]
+    },
+    {
+      "number": 7540,
+      "title": "Detect and surface unknown variations in contextual bandits",
+      "url": "https://github.com/growthbook/growthbook/pull/7540",
+      "createdAt": "2026-11-01T19:02:40Z",
+      "updatedAt": "2026-11-02T02:48:57Z",
+      "author": "lukebrawleysmith",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7532,
+      "title": "interleaving: initial docs",
+      "url": "https://github.com/growthbook/growthbook/pull/7532",
+      "createdAt": "2026-10-30T19:25:49Z",
+      "updatedAt": "2026-11-03T02:29:24Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "HampusPoppius",
+        "ahdriel",
+        "lillialjackson"
+      ]
+    },
+    {
+      "number": 7531,
+      "title": "fix,ui(experiments): allow override for specific scenarios",
+      "url": "https://github.com/growthbook/growthbook/pull/7531",
+      "createdAt": "2026-10-30T19:09:59Z",
+      "updatedAt": "2026-11-02T21:23:55Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "msamper"
+      ]
+    },
+    {
+      "number": 7530,
+      "title": "fix(analysis): keep metric window unit for type-only window overrides",
+      "url": "https://github.com/growthbook/growthbook/pull/7530",
+      "createdAt": "2026-10-30T18:46:26Z",
+      "updatedAt": "2026-11-02T22:20:53Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "lukesonnet",
+        "msamper"
+      ]
+    },
+    {
+      "number": 7529,
+      "title": "fix(front-end): stop styled-jsx className on React.Fragment",
+      "url": "https://github.com/growthbook/growthbook/pull/7529",
+      "createdAt": "2026-10-30T17:11:33Z",
+      "updatedAt": "2026-10-30T19:30:49Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "msamper"
+      ]
+    },
+    {
+      "number": 7527,
+      "title": "ui(experiments): show run length in the header date tooltip",
+      "url": "https://github.com/growthbook/growthbook/pull/7527",
+      "createdAt": "2026-10-30T16:33:32Z",
+      "updatedAt": "2026-10-30T20:46:04Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "lukesonnet"
+      ]
+    },
+    {
+      "number": 7526,
+      "title": "chore: update AGENTS.md heading for next 16.4",
+      "url": "https://github.com/growthbook/growthbook/pull/7526",
+      "createdAt": "2026-10-30T16:05:29Z",
+      "updatedAt": "2026-10-30T16:23:25Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "msamper"
+      ]
+    },
+    {
+      "number": 7524,
+      "title": "ui(experiments): improve variation card image upload",
+      "url": "https://github.com/growthbook/growthbook/pull/7524",
+      "createdAt": "2026-10-30T14:01:30Z",
+      "updatedAt": "2026-10-30T19:30:30Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "lukesonnet"
+      ]
+    },
+    {
+      "number": 7511,
+      "title": "fix(projects): allow editing Projects without a Public ID",
+      "url": "https://github.com/growthbook/growthbook/pull/7511",
+      "createdAt": "2026-10-29T19:59:07Z",
+      "updatedAt": "2026-10-29T21:26:19Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "jdorn"
+      ]
+    },
+    {
+      "number": 7510,
+      "title": "chore(deps): small clean up",
+      "url": "https://github.com/growthbook/growthbook/pull/7510",
+      "createdAt": "2026-10-29T19:09:45Z",
+      "updatedAt": "2026-10-30T03:02:28Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "Kevin-Chant"
+      ]
+    },
+    {
+      "number": 7509,
+      "title": "fix(experiments): unblock experiments with invalid traffic splits",
+      "url": "https://github.com/growthbook/growthbook/pull/7509",
+      "createdAt": "2026-10-29T19:06:05Z",
+      "updatedAt": "2026-10-29T21:51:53Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "bryce-fitzsimons"
+      ]
+    },
+    {
+      "number": 7508,
+      "title": "chore(ui): update Import page logos + add dark mode versions",
+      "url": "https://github.com/growthbook/growthbook/pull/7508",
+      "createdAt": "2026-10-29T18:10:15Z",
+      "updatedAt": "2026-10-29T18:36:20Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "msamper"
+      ]
+    },
+    {
+      "number": 7506,
+      "title": "ci(preview): clean up Fly apps when PRs close",
+      "url": "https://github.com/growthbook/growthbook/pull/7506",
+      "createdAt": "2026-10-29T16:45:20Z",
+      "updatedAt": "2026-10-29T17:16:51Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "msamper"
+      ]
+    },
+    {
+      "number": 7496,
+      "title": "Add Archive and Delete to Contextual Bandit",
+      "url": "https://github.com/growthbook/growthbook/pull/7496",
+      "createdAt": "2026-10-28T19:41:04Z",
+      "updatedAt": "2026-10-29T16:53:24Z",
+      "author": "teresayung",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "jdorn"
+      ]
+    },
+    {
+      "number": 7476,
+      "title": "feat(experiments): Move the experiment import modal to the design system",
+      "url": "https://github.com/growthbook/growthbook/pull/7476",
+      "createdAt": "2026-10-27T22:10:56Z",
+      "updatedAt": "2026-10-27T22:27:57Z",
+      "author": "msamper",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7458,
+      "title": "fix(back-end): let in-flight jobs and queries finish on shutdown",
+      "url": "https://github.com/growthbook/growthbook/pull/7458",
+      "createdAt": "2026-10-27T16:11:02Z",
+      "updatedAt": "2026-10-27T16:13:26Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7423,
+      "title": "feat(attributes): Attributes Page Redesign & New Identifier Flow",
+      "url": "https://github.com/growthbook/growthbook/pull/7423",
+      "createdAt": "2026-10-22T19:37:23Z",
+      "updatedAt": "2026-11-11T00:30:57Z",
+      "author": "msamper",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [
+        "ahdriel"
+      ],
+      "reviewers": [
+        "ahdriel"
+      ]
+    },
+    {
+      "number": 7421,
+      "title": "fix(ui,lint): require an explicit type on every button",
+      "url": "https://github.com/growthbook/growthbook/pull/7421",
+      "createdAt": "2026-10-22T19:18:17Z",
+      "updatedAt": "2026-10-22T19:47:17Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7417,
+      "title": "Contextual Bandit: Fast Transition to Running",
+      "url": "https://github.com/growthbook/growthbook/pull/7417",
+      "createdAt": "2026-10-22T14:50:57Z",
+      "updatedAt": "2026-10-22T14:55:09Z",
+      "author": "lukebrawleysmith",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7408,
+      "title": "CB Measurement Arm",
+      "url": "https://github.com/growthbook/growthbook/pull/7408",
+      "createdAt": "2026-10-21T23:39:08Z",
+      "updatedAt": "2026-11-03T23:50:45Z",
+      "author": "teresayung",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7406,
+      "title": "interleaving: UI",
+      "url": "https://github.com/growthbook/growthbook/pull/7406",
+      "createdAt": "2026-10-21T18:18:40Z",
+      "updatedAt": "2026-11-03T01:59:17Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [
+        "msamper"
+      ],
+      "reviewers": [
+        "msamper",
+        "lillialjackson"
+      ]
+    },
+    {
+      "number": 7405,
+      "title": "feat(contextual): period weighting",
+      "url": "https://github.com/growthbook/growthbook/pull/7405",
+      "createdAt": "2026-10-21T17:44:16Z",
+      "updatedAt": "2026-11-11T17:47:31Z",
+      "author": "lukebrawleysmith",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "lukesonnet"
+      ]
+    },
+    {
+      "number": 7397,
+      "title": "feat(api): add GET /experiments/:id/log endpoint",
+      "url": "https://github.com/growthbook/growthbook/pull/7397",
+      "createdAt": "2026-10-21T15:16:28Z",
+      "updatedAt": "2026-11-06T23:22:03Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [
+        "bryce-fitzsimons"
+      ],
+      "reviewers": [
+        "bryce-fitzsimons"
+      ]
+    },
+    {
+      "number": 7344,
+      "title": "feat(experiments): Add health checks for cluster randomized experiments",
+      "url": "https://github.com/growthbook/growthbook/pull/7344",
+      "createdAt": "2026-10-15T22:11:31Z",
+      "updatedAt": "2026-10-29T18:20:13Z",
+      "author": "msamper",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7341,
+      "title": "feat(experiments): Enable Cluster Randomized Experiments in the UI",
+      "url": "https://github.com/growthbook/growthbook/pull/7341",
+      "createdAt": "2026-10-15T16:50:21Z",
+      "updatedAt": "2026-11-04T22:15:31Z",
+      "author": "msamper",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7328,
+      "title": "interleaving: analysis and queries",
+      "url": "https://github.com/growthbook/growthbook/pull/7328",
+      "createdAt": "2026-10-14T21:20:40Z",
+      "updatedAt": "2026-11-02T23:11:00Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "ahdriel",
+        "lillialjackson"
+      ]
+    },
+    {
+      "number": 7260,
+      "title": "experiments: add max attempts on failed auto-updates",
+      "url": "https://github.com/growthbook/growthbook/pull/7260",
+      "createdAt": "2026-10-06T21:09:48Z",
+      "updatedAt": "2026-10-30T14:20:48Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "teresayung"
+      ]
+    },
+    {
+      "number": 7242,
+      "title": "feat(experiments): First Class Cluster Experiments",
+      "url": "https://github.com/growthbook/growthbook/pull/7242",
+      "createdAt": "2026-10-05T20:26:05Z",
+      "updatedAt": "2026-11-04T22:15:30Z",
+      "author": "lukebrawleysmith",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "merged",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "msamper",
+        "lukesonnet"
+      ]
+    },
+    {
+      "number": 7231,
+      "title": "chore(lint): require useRestApi if querying internal api",
+      "url": "https://github.com/growthbook/growthbook/pull/7231",
+      "createdAt": "2026-10-02T22:09:15Z",
+      "updatedAt": "2026-10-22T20:02:29Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7211,
+      "title": "Ty/cb vs sdk",
+      "url": "https://github.com/growthbook/growthbook/pull/7211",
+      "createdAt": "2026-10-01T23:34:55Z",
+      "updatedAt": "2026-10-02T02:39:30Z",
+      "author": "teresayung",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7116,
+      "title": "incremental: Add Redshift support",
+      "url": "https://github.com/growthbook/growthbook/pull/7116",
+      "createdAt": "2026-09-23T18:01:59Z",
+      "updatedAt": "2026-09-23T18:03:44Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7095,
+      "title": "feat(design-system): Add MultiStepModal primitives and MultiStepModalStandard pattern",
+      "url": "https://github.com/growthbook/growthbook/pull/7095",
+      "createdAt": "2026-09-22T18:33:34Z",
+      "updatedAt": "2026-10-06T18:25:50Z",
+      "author": "msamper",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "Kevin-Chant"
+      ]
+    },
+    {
+      "number": 7047,
+      "title": "feat(notifications): update Recommended presets",
+      "url": "https://github.com/growthbook/growthbook/pull/7047",
+      "createdAt": "2026-09-18T16:59:33Z",
+      "updatedAt": "2026-09-18T17:02:39Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7044,
+      "title": "fix(bigquery): bound dataset discovery requests",
+      "url": "https://github.com/growthbook/growthbook/pull/7044",
+      "createdAt": "2026-09-18T15:46:57Z",
+      "updatedAt": "2026-09-18T15:46:57Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7032,
+      "title": "fix(query-runner): reconcile pointers after completion",
+      "url": "https://github.com/growthbook/growthbook/pull/7032",
+      "createdAt": "2026-09-17T20:06:23Z",
+      "updatedAt": "2026-09-17T20:06:23Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7031,
+      "title": "fix(ui): show failed query refreshes as errors",
+      "url": "https://github.com/growthbook/growthbook/pull/7031",
+      "createdAt": "2026-09-17T20:05:52Z",
+      "updatedAt": "2026-09-17T20:05:52Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 7029,
+      "title": "fix(features): target revision publish events to changed environments",
+      "url": "https://github.com/growthbook/growthbook/pull/7029",
+      "createdAt": "2026-09-17T19:00:30Z",
+      "updatedAt": "2026-09-17T19:57:48Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "bryce-fitzsimons"
+      ]
+    },
+    {
+      "number": 7028,
+      "title": "fix(features): emit revision.published from publishRevision",
+      "url": "https://github.com/growthbook/growthbook/pull/7028",
+      "createdAt": "2026-09-17T18:25:27Z",
+      "updatedAt": "2026-09-17T19:57:28Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "bryce-fitzsimons"
+      ]
+    },
+    {
+      "number": 7000,
+      "title": "Update chance-to-win org default and align CTW usage in power analysis w/ results page",
+      "url": "https://github.com/growthbook/growthbook/pull/7000",
+      "createdAt": "2026-09-16T17:07:17Z",
+      "updatedAt": "2026-09-16T20:20:52Z",
+      "author": "lukebrawleysmith",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [
+        "lukesonnet"
+      ],
+      "reviewers": [
+        "lukesonnet"
+      ]
+    },
+    {
+      "number": 6948,
+      "title": "jobs/agenda: Add separate queue for Events & Webhooks",
+      "url": "https://github.com/growthbook/growthbook/pull/6948",
+      "createdAt": "2026-09-11T21:54:58Z",
+      "updatedAt": "2026-09-16T22:18:41Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6946,
+      "title": "feat(webhooks): add API version selection and aggregate significance events",
+      "url": "https://github.com/growthbook/growthbook/pull/6946",
+      "createdAt": "2026-09-11T19:03:26Z",
+      "updatedAt": "2026-09-11T20:22:39Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "lukesonnet"
+      ]
+    },
+    {
+      "number": 6936,
+      "title": "fix(experiments): report partial snapshot success",
+      "url": "https://github.com/growthbook/growthbook/pull/6936",
+      "createdAt": "2026-09-10T22:07:11Z",
+      "updatedAt": "2026-09-11T16:58:45Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6919,
+      "title": "chore(tests): migrate from jest to vitest for all packages",
+      "url": "https://github.com/growthbook/growthbook/pull/6919",
+      "createdAt": "2026-09-10T16:30:02Z",
+      "updatedAt": "2026-09-23T18:26:42Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6806,
+      "title": "fix(experiments): count fact-funnel step windows without a conversion envelope",
+      "url": "https://github.com/growthbook/growthbook/pull/6806",
+      "createdAt": "2026-09-01T17:55:44Z",
+      "updatedAt": "2026-09-01T17:58:46Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6779,
+      "title": "feat(query-runner): add queryRunnerRun model",
+      "url": "https://github.com/growthbook/growthbook/pull/6779",
+      "createdAt": "2026-08-27T22:11:36Z",
+      "updatedAt": "2026-09-18T15:28:23Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "lukesonnet"
+      ]
+    },
+    {
+      "number": 6774,
+      "title": "Fix Edit Metric Group modal to filter metrics by project scoping",
+      "url": "https://github.com/growthbook/growthbook/pull/6774",
+      "createdAt": "2026-08-27T15:57:50Z",
+      "updatedAt": "2026-11-09T19:19:09Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [
+        "ahdriel"
+      ],
+      "reviewers": [
+        "ahdriel"
+      ]
+    },
+    {
+      "number": 6708,
+      "title": "chore(lint): address all remaining switch-exhaustiveness violations",
+      "url": "https://github.com/growthbook/growthbook/pull/6708",
+      "createdAt": "2026-08-20T19:23:38Z",
+      "updatedAt": "2026-08-28T14:43:48Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "najito"
+      ]
+    },
+    {
+      "number": 6685,
+      "title": "Serialize failed bulk-API metrics as null",
+      "url": "https://github.com/growthbook/growthbook/pull/6685",
+      "createdAt": "2026-08-19T05:10:07Z",
+      "updatedAt": "2026-08-19T05:10:07Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6684,
+      "title": "Isolate batched snapshot query maps",
+      "url": "https://github.com/growthbook/growthbook/pull/6684",
+      "createdAt": "2026-08-19T05:10:05Z",
+      "updatedAt": "2026-08-19T05:10:05Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6683,
+      "title": "fix(experiments): invalidate incremental refresh cache when metric group queries fail",
+      "url": "https://github.com/growthbook/growthbook/pull/6683",
+      "createdAt": "2026-08-19T05:10:02Z",
+      "updatedAt": "2026-08-19T21:02:48Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6682,
+      "title": "Surface partial success for incremental refresh results",
+      "url": "https://github.com/growthbook/growthbook/pull/6682",
+      "createdAt": "2026-08-19T05:10:01Z",
+      "updatedAt": "2026-08-19T05:10:01Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6681,
+      "title": "Preserve failed metrics in partial experiment results",
+      "url": "https://github.com/growthbook/growthbook/pull/6681",
+      "createdAt": "2026-08-19T05:09:59Z",
+      "updatedAt": "2026-08-19T05:09:59Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6680,
+      "title": "Treat partial query failure as partial success",
+      "url": "https://github.com/growthbook/growthbook/pull/6680",
+      "createdAt": "2026-08-19T05:09:57Z",
+      "updatedAt": "2026-08-25T22:19:12Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6677,
+      "title": "handle metric analysis failure + do not treat half of queries failing\u2026",
+      "url": "https://github.com/growthbook/growthbook/pull/6677",
+      "createdAt": "2026-08-18T22:55:12Z",
+      "updatedAt": "2026-08-18T22:55:12Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6630,
+      "title": "fix: omit phaseStartDate when editDates is false to avoid runExperiments permission",
+      "url": "https://github.com/growthbook/growthbook/pull/6630",
+      "createdAt": "2026-08-12T23:38:38Z",
+      "updatedAt": "2026-08-13T19:09:48Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "bryce-fitzsimons"
+      ]
+    },
+    {
+      "number": 6590,
+      "title": "chore(design): More migrations to ui/Table",
+      "url": "https://github.com/growthbook/growthbook/pull/6590",
+      "createdAt": "2026-08-07T14:07:34Z",
+      "updatedAt": "2026-08-28T17:48:13Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6582,
+      "title": "fix(dashboards): Validate block read permissions when creating/updating a dashboard",
+      "url": "https://github.com/growthbook/growthbook/pull/6582",
+      "createdAt": "2026-08-06T17:41:41Z",
+      "updatedAt": "2026-08-06T17:41:41Z",
+      "author": "msamper",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6580,
+      "title": "feat: add no-data alert grace period setting",
+      "url": "https://github.com/growthbook/growthbook/pull/6580",
+      "createdAt": "2026-08-06T16:02:34Z",
+      "updatedAt": "2026-11-03T22:20:21Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [
+        "ahdriel"
+      ],
+      "reviewers": [
+        "ahdriel"
+      ]
+    },
+    {
+      "number": 6547,
+      "title": "feat(experiments,dashboards): rebuild Overall Results once so dimension breakdowns run incrementally",
+      "url": "https://github.com/growthbook/growthbook/pull/6547",
+      "createdAt": "2026-08-04T21:10:58Z",
+      "updatedAt": "2026-08-18T20:40:51Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6538,
+      "title": "docs(experiments): fix three stale comments",
+      "url": "https://github.com/growthbook/growthbook/pull/6538",
+      "createdAt": "2026-08-03T20:19:47Z",
+      "updatedAt": "2026-08-03T20:32:36Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6537,
+      "title": "fix(experiments): isolate health step failures from metric results",
+      "url": "https://github.com/growthbook/growthbook/pull/6537",
+      "createdAt": "2026-08-03T20:19:45Z",
+      "updatedAt": "2026-08-03T20:32:35Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6536,
+      "title": "feat(experiments): show why each metric failed on its row",
+      "url": "https://github.com/growthbook/growthbook/pull/6536",
+      "createdAt": "2026-08-03T20:19:43Z",
+      "updatedAt": "2026-08-03T20:32:33Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6535,
+      "title": "fix(stats): contain a gbstats failure to its own analysis slot",
+      "url": "https://github.com/growthbook/growthbook/pull/6535",
+      "createdAt": "2026-08-03T20:19:41Z",
+      "updatedAt": "2026-08-03T20:32:31Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6534,
+      "title": "fix(experiments): keep analyzing metrics whose queries survived",
+      "url": "https://github.com/growthbook/growthbook/pull/6534",
+      "createdAt": "2026-08-03T20:19:39Z",
+      "updatedAt": "2026-08-03T20:32:30Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6533,
+      "title": "fix(experiments): contain SQL build failures to their own query",
+      "url": "https://github.com/growthbook/growthbook/pull/6533",
+      "createdAt": "2026-08-03T20:19:37Z",
+      "updatedAt": "2026-08-03T20:32:28Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6494,
+      "title": "fix(fact-tables): preserve API-managed userIdTypes on column refresh",
+      "url": "https://github.com/growthbook/growthbook/pull/6494",
+      "createdAt": "2026-07-29T14:32:50Z",
+      "updatedAt": "2026-07-30T15:01:12Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6462,
+      "title": "Fix phase variation IDs in getExperimentApiResponse",
+      "url": "https://github.com/growthbook/growthbook/pull/6462",
+      "createdAt": "2026-07-24T15:37:28Z",
+      "updatedAt": "2026-07-24T15:37:28Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6448,
+      "title": "Ty/cb add remove variations",
+      "url": "https://github.com/growthbook/growthbook/pull/6448",
+      "createdAt": "2026-07-22T21:37:14Z",
+      "updatedAt": "2026-08-10T23:19:44Z",
+      "author": "teresayung",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6442,
+      "title": "Fix sticky Metric Drilldown hover tooltip",
+      "url": "https://github.com/growthbook/growthbook/pull/6442",
+      "createdAt": "2026-07-22T18:47:57Z",
+      "updatedAt": "2026-07-22T18:47:57Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6348,
+      "title": "refactor(ui): remove orange \"attention\" Callout status",
+      "url": "https://github.com/growthbook/growthbook/pull/6348",
+      "createdAt": "2026-07-13T17:33:30Z",
+      "updatedAt": "2026-07-13T18:45:06Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6263,
+      "title": "Results table styling cleanup (metric name/value + result cell colors)",
+      "url": "https://github.com/growthbook/growthbook/pull/6263",
+      "createdAt": "2026-07-01T17:09:46Z",
+      "updatedAt": "2026-07-01T20:11:13Z",
+      "author": "msamper",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6210,
+      "title": "feat(sdk): contextual bandit SDK payload + runtime leaf selection",
+      "url": "https://github.com/growthbook/growthbook/pull/6210",
+      "createdAt": "2026-06-25T04:36:41Z",
+      "updatedAt": "2026-07-02T16:30:29Z",
+      "author": "teresayung",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6202,
+      "title": "feat(clickhouse): cancel in-flight queries via KILL QUERY",
+      "url": "https://github.com/growthbook/growthbook/pull/6202",
+      "createdAt": "2026-06-24T13:57:18Z",
+      "updatedAt": "2026-07-22T04:00:08Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "lukesonnet"
+      ]
+    },
+    {
+      "number": 6183,
+      "title": "Allow removing API-added legacy metrics from incremental experiments",
+      "url": "https://github.com/growthbook/growthbook/pull/6183",
+      "createdAt": "2026-06-20T00:12:00Z",
+      "updatedAt": "2026-06-20T00:12:00Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6166,
+      "title": "fix(aggregated-tables): only include metrics in active experiments",
+      "url": "https://github.com/growthbook/growthbook/pull/6166",
+      "createdAt": "2026-06-18T18:34:38Z",
+      "updatedAt": "2026-06-22T18:26:08Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "ahdriel"
+      ]
+    },
+    {
+      "number": 6157,
+      "title": "feat(dashboards): Allow public sharing of Dashboards",
+      "url": "https://github.com/growthbook/growthbook/pull/6157",
+      "createdAt": "2026-06-18T01:24:58Z",
+      "updatedAt": "2026-08-06T22:39:52Z",
+      "author": "msamper",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "mknowlton89"
+      ]
+    },
+    {
+      "number": 6147,
+      "title": "feat: directly inject custom markdown with expandable content",
+      "url": "https://github.com/growthbook/growthbook/pull/6147",
+      "createdAt": "2026-06-17T16:43:37Z",
+      "updatedAt": "2026-06-19T16:57:26Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 6025,
+      "title": "chore(logs): Improve experiment update log",
+      "url": "https://github.com/growthbook/growthbook/pull/6025",
+      "createdAt": "2026-06-03T21:12:18Z",
+      "updatedAt": "2026-06-03T21:15:17Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [
+        "jdorn"
+      ],
+      "reviewers": [
+        "jdorn"
+      ]
+    },
+    {
+      "number": 6024,
+      "title": "fix(settings): Enforce 'Require Fact Metrics' on API and UI",
+      "url": "https://github.com/growthbook/growthbook/pull/6024",
+      "createdAt": "2026-06-03T20:37:54Z",
+      "updatedAt": "2026-06-22T19:20:19Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 5982,
+      "title": "feat(dashboards): add dimension time series to exp dashboards",
+      "url": "https://github.com/growthbook/growthbook/pull/5982",
+      "createdAt": "2026-05-30T01:39:31Z",
+      "updatedAt": "2026-06-17T15:52:05Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "ahdriel"
+      ]
+    },
+    {
+      "number": 5978,
+      "title": "Incremental-mode precomputed unit dimensions (stacked on ephemeral)",
+      "url": "https://github.com/growthbook/growthbook/pull/5978",
+      "createdAt": "2026-05-29T20:43:28Z",
+      "updatedAt": "2026-05-30T05:06:45Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 5946,
+      "title": "Strip incompatible metrics at submit when duplicating an experiment",
+      "url": "https://github.com/growthbook/growthbook/pull/5946",
+      "createdAt": "2026-05-26T21:15:45Z",
+      "updatedAt": "2026-05-26T22:21:01Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 5936,
+      "title": "feat: add PowerCalculation BaseModel and internal API",
+      "url": "https://github.com/growthbook/growthbook/pull/5936",
+      "createdAt": "2026-05-22T23:26:35Z",
+      "updatedAt": "2026-05-22T23:33:22Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 5935,
+      "title": "refactor: convert shared/power types to Zod schemas",
+      "url": "https://github.com/growthbook/growthbook/pull/5935",
+      "createdAt": "2026-05-22T22:47:56Z",
+      "updatedAt": "2026-05-22T22:52:29Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 5868,
+      "title": "Fix loading error when switching orgs from a resource page",
+      "url": "https://github.com/growthbook/growthbook/pull/5868",
+      "createdAt": "2026-05-15T04:35:18Z",
+      "updatedAt": "2026-05-21T03:41:55Z",
+      "author": "msamper",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "ready_for_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 5863,
+      "title": "Bryce/input no legacy",
+      "url": "https://github.com/growthbook/growthbook/pull/5863",
+      "createdAt": "2026-05-14T00:09:27Z",
+      "updatedAt": "2026-07-22T06:02:01Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 5862,
+      "title": "feat(design-system): Add ModalPaged pattern",
+      "url": "https://github.com/growthbook/growthbook/pull/5862",
+      "createdAt": "2026-05-13T23:58:10Z",
+      "updatedAt": "2026-05-13T23:58:10Z",
+      "author": "msamper",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 5847,
+      "title": "api(results): Add support for dimensions",
+      "url": "https://github.com/growthbook/growthbook/pull/5847",
+      "createdAt": "2026-05-11T20:36:49Z",
+      "updatedAt": "2026-05-11T20:38:29Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 5770,
+      "title": "Remove identity join logic from individual CTEs",
+      "url": "https://github.com/growthbook/growthbook/pull/5770",
+      "createdAt": "2026-04-30T00:13:24Z",
+      "updatedAt": "2026-04-30T20:11:37Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 5719,
+      "title": "fix: align identity CTE between outer metric query and units subquery",
+      "url": "https://github.com/growthbook/growthbook/pull/5719",
+      "createdAt": "2026-04-22T14:28:06Z",
+      "updatedAt": "2026-04-22T14:28:06Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 5569,
+      "title": "Fix transient sign-in error when manually editing URL org param",
+      "url": "https://github.com/growthbook/growthbook/pull/5569",
+      "createdAt": "2026-03-31T00:29:56Z",
+      "updatedAt": "2026-03-31T01:02:19Z",
+      "author": "msamper",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 5560,
+      "title": "Add holdout information to experiment REST API response",
+      "url": "https://github.com/growthbook/growthbook/pull/5560",
+      "createdAt": "2026-03-27T16:27:26Z",
+      "updatedAt": "2026-03-27T16:39:59Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 5552,
+      "title": "refactor(features): Fix custom fields when creating Feature from Experiment",
+      "url": "https://github.com/growthbook/growthbook/pull/5552",
+      "createdAt": "2026-03-26T17:11:57Z",
+      "updatedAt": "2026-03-27T20:36:01Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 5533,
+      "title": "feat(incremental-refresh): Add ingest-based partition strategy",
+      "url": "https://github.com/growthbook/growthbook/pull/5533",
+      "createdAt": "2026-03-24T12:36:15Z",
+      "updatedAt": "2026-03-27T22:27:49Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 5518,
+      "title": "fix: make getBaseIdTypeAndJoins consider available identifier joins",
+      "url": "https://github.com/growthbook/growthbook/pull/5518",
+      "createdAt": "2026-03-19T22:04:02Z",
+      "updatedAt": "2026-03-23T16:30:50Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 5505,
+      "title": "feat: Add smart compact rendering for large numbers in Fact Ratio Metrics",
+      "url": "https://github.com/growthbook/growthbook/pull/5505",
+      "createdAt": "2026-03-17T17:09:58Z",
+      "updatedAt": "2026-04-14T21:10:56Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 5496,
+      "title": "Scaled impact namespace coverage",
+      "url": "https://github.com/growthbook/growthbook/pull/5496",
+      "createdAt": "2026-03-16T15:45:06Z",
+      "updatedAt": "2026-03-16T15:45:07Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": true,
+      "status": "draft",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": []
+    },
+    {
+      "number": 5299,
+      "title": "fix(jobs): Add OTEL span for each job",
+      "url": "https://github.com/growthbook/growthbook/pull/5299",
+      "createdAt": "2026-02-13T19:00:38Z",
+      "updatedAt": "2026-03-10T17:46:02Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [
+        "Kevin-Chant",
+        "jdorn"
+      ],
+      "reviewers": [
+        "Kevin-Chant",
+        "jdorn",
+        "tzjames"
+      ]
+    },
+    {
+      "number": 4625,
+      "title": "feat(dimensions): Add job to refresh precomputed dimensions traffic data",
+      "url": "https://github.com/growthbook/growthbook/pull/4625",
+      "createdAt": "2025-09-24T21:20:08Z",
+      "updatedAt": "2025-10-05T01:00:14Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "lukesonnet"
+      ]
+    },
+    {
+      "number": 4582,
+      "title": "fix(fact-metric-detail): Don't display minimum numerator total as percentage when displayAsPercentage is enabled",
+      "url": "https://github.com/growthbook/growthbook/pull/4582",
+      "createdAt": "2025-09-16T00:05:00Z",
+      "updatedAt": "2025-09-19T16:30:23Z",
+      "author": "msamper",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [
+        "lukesonnet"
+      ],
+      "reviewers": [
+        "lukesonnet"
+      ]
+    },
+    {
+      "number": 4300,
+      "title": "Add query_timeout to Postgres",
+      "url": "https://github.com/growthbook/growthbook/pull/4300",
+      "createdAt": "2025-07-16T14:38:14Z",
+      "updatedAt": "2025-07-31T06:40:18Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "tzjames",
+        "lukesonnet"
+      ]
+    },
+    {
+      "number": 3971,
+      "title": "REST API: Enable easier result exporting",
+      "url": "https://github.com/growthbook/growthbook/pull/3971",
+      "createdAt": "2025-04-22T16:10:29Z",
+      "updatedAt": "2026-02-04T17:27:29Z",
+      "author": "lukesonnet",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "jdorn"
+      ]
+    },
+    {
+      "number": 3411,
+      "title": "Add DataDog Events integration",
+      "url": "https://github.com/growthbook/growthbook/pull/3411",
+      "createdAt": "2024-12-10T02:05:43Z",
+      "updatedAt": "2024-12-10T16:23:46Z",
+      "author": "ahdriel",
+      "repository": "growthbook/growthbook",
+      "isDraft": false,
+      "status": "in_review",
+      "assignees": [],
+      "requestedReviewers": [],
+      "reviewers": [
+        "jdorn"
+      ]
+    }
+  ],
+  "source": "sample"
+}
